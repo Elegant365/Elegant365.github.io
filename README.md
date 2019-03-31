@@ -1,1 +1,2 @@
-# Elegant365.github.io
+# Elegant 365
+> Elegant learning with technology everyday
