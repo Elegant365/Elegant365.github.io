@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="655bb88c-39bb-4fab-8dce-f7c5a19a41c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/elenotes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Elenotes_banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Elenotes_banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KozGoPro-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/MyriadPro.otf" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,10 +19,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
+            <state relative-caret-position="1005">
               <caret line="67" column="56" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="56" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -42,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="3322" column="29" selection-start-line="3322" selection-start-column="29" selection-end-line="3322" selection-end-column="29" />
+            <state relative-caret-position="731">
+              <caret line="3325" column="1" lean-forward="true" selection-start-line="3325" selection-start-column="1" selection-end-line="3325" selection-end-column="1" />
               <folding>
                 <element signature="e#33618#34111#2" expanded="true" />
                 <element signature="e#49792#50168#2" expanded="true" />
@@ -96,8 +94,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Elenotes.html" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
       </list>
     </option>
   </component>
@@ -112,7 +110,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="397" />
+    <option name="x" value="396" />
     <option name="y" value="95" />
     <option name="width" value="2027" />
     <option name="height" value="1000" />
@@ -132,6 +130,24 @@
               <item name="Elegant365.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Elegant365.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Elegant365.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Elegant365.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Elegant365.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Elegant365.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Elegant365.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Elegant365.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -141,6 +157,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -171,15 +188,15 @@
       <workItem from="1554185453120" duration="3631000" />
       <workItem from="1554197711722" duration="789000" />
       <workItem from="1554343664234" duration="184000" />
-      <workItem from="1554532324848" duration="3893000" />
+      <workItem from="1554532324848" duration="4116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8497000" />
+    <option name="totallyTimeSpent" value="8720000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="397" y="95" width="2027" height="1000" extended-state="0" />
+    <frame x="396" y="95" width="2027" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49889868" visible="true" weight="0.17148554" />
@@ -215,20 +232,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="3322" column="29" selection-start-line="3322" selection-start-column="29" selection-end-line="3322" selection-end-column="29" />
-          <folding>
-            <element signature="e#33618#34111#2" expanded="true" />
-            <element signature="e#49792#50168#2" expanded="true" />
-            <element signature="e#50271#50647#2" expanded="true" />
-            <element signature="e#53983#54315#2" expanded="true" />
-            <element signature="e#54387#54719#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/elenotes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -238,10 +241,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
+        <state relative-caret-position="1005">
           <caret line="67" column="56" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="56" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="3325" column="1" lean-forward="true" selection-start-line="3325" selection-start-column="1" selection-end-line="3325" selection-end-column="1" />
+          <folding>
+            <element signature="e#33618#34111#2" expanded="true" />
+            <element signature="e#49792#50168#2" expanded="true" />
+            <element signature="e#50271#50647#2" expanded="true" />
+            <element signature="e#53983#54315#2" expanded="true" />
+            <element signature="e#54387#54719#2" expanded="true" />
           </folding>
         </state>
       </provider>
