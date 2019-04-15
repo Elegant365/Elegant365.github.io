@@ -1,9 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/index.html" description="&lt;nav&gt;" line="25" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="655bb88c-39bb-4fab-8dce-f7c5a19a41c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/fonts/KozGoPro-Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/MyriadPro.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-icon-36x36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-icon-48x48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-icon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple-icon-114x114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple-icon-57x57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple-icon-60x60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple-icon-76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple-icon-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elenotes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Elenotes/Elenotes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-icon-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-icon-310x310.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-icon-70x70.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,11 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="67" column="56" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="56" />
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -32,26 +65,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elenotes.html">
+        <entry file="file://$PROJECT_DIR$/Elenotes/Elenotes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="60">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="3325" column="1" lean-forward="true" selection-start-line="3325" selection-start-column="1" selection-end-line="3325" selection-end-column="1" />
-              <folding>
-                <element signature="e#33618#34111#2" expanded="true" />
-                <element signature="e#49792#50168#2" expanded="true" />
-                <element signature="e#50271#50647#2" expanded="true" />
-                <element signature="e#53983#54315#2" expanded="true" />
-                <element signature="e#54387#54719#2" expanded="true" />
-              </folding>
+            <state relative-caret-position="197">
+              <caret line="104" column="23" selection-start-line="104" selection-start-column="13" selection-end-line="104" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -59,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
+            <state relative-caret-position="825">
               <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
             </state>
           </provider>
@@ -85,6 +111,9 @@
       <find>image</find>
       <find>.image</find>
       <find>.tiles article &gt; .image:after {</find>
+      <find>h1</find>
+      <find>.content</find>
+      <find>is-preload</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -94,18 +123,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Elenotes.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/Elegant365.github.io.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Template Notebooks.html" />
+        <option value="$PROJECT_DIR$/Elenotes/Elenotes.html" />
       </list>
     </option>
   </component>
@@ -123,6 +144,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,26 +155,12 @@
             <path>
               <item name="Elegant365.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Elegant365.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Elegant365.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Elegant365.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Elegant365.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Elegant365.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+              <item name="Elenotes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,12 +196,14 @@
       <workItem from="1554185453120" duration="3631000" />
       <workItem from="1554197711722" duration="789000" />
       <workItem from="1554343664234" duration="184000" />
-      <workItem from="1554532324848" duration="4116000" />
+      <workItem from="1554532324848" duration="4755000" />
+      <workItem from="1554899842295" duration="316000" />
+      <workItem from="1554992048208" duration="2068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8720000" />
+    <option name="totallyTimeSpent" value="11743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="396" y="95" width="2027" height="1000" extended-state="0" />
@@ -222,13 +232,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/generic.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/sectional.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -239,26 +246,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="56" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="56" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="825">
+          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/generic.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="3325" column="1" lean-forward="true" selection-start-line="3325" selection-start-column="1" selection-end-line="3325" selection-end-column="1" />
+        <state relative-caret-position="197">
+          <caret line="104" column="23" selection-start-line="104" selection-start-column="13" selection-end-line="104" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template Notebooks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Elenotes/Elenotes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#33618#34111#2" expanded="true" />
-            <element signature="e#49792#50168#2" expanded="true" />
-            <element signature="e#50271#50647#2" expanded="true" />
-            <element signature="e#53983#54315#2" expanded="true" />
-            <element signature="e#54387#54719#2" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
